@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1433595783 source:f:\c++\2015\proe lista\main.cpp
+	<iostream>
+	"Lista.hpp"
+	"Wezel.hpp"
+
+1433595811 f:\c++\2015\proe lista\lista.hpp
+	"Wezel.hpp"
+	<iostream>
+	<cstdlib>
+
+1433595145 f:\c++\2015\proe lista\wezel.hpp
+	<iostream>
+
